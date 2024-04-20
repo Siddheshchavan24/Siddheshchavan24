@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Siddheshchavan24
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... javascript
-- 💞️ I’m looking to collaborate on ... web development
-- 📫 How to reach me ... on Instagram : siddhesh__06_
+- 👀 I’m interested in ... data scientist
+- 🌱 I’m currently learning ... power bi
+- 💞️ I’m looking to collaborate on ... data analyst
+- 📫 How to reach me ... on whatsapp 9594122932
 
 <!---
 Siddheshchavan24/Siddheshchavan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
